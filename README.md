@@ -1,42 +1,44 @@
 # Hi, I'm Damilola Olarewaju 👋
 
-I’m a builder, educator, and Computer Science student focused on AI-powered products, education technology, and practical web and mobile experiences.
+**Builder · Educator · Aspiring AI Engineer**
 
-I enjoy turning useful ideas into accessible products—from academic tools for students to interactive dashboards and personal web experiences.
+I’m a Computer Science student at MIVA Open University building practical products at the intersection of **artificial intelligence, education, and user-focused software**.
 
-## Featured projects
+I enjoy taking an idea from concept to working product—whether that means creating Android apps, designing responsive web experiences, experimenting with AI workflows, or teaching others how to build with technology.
 
-- 🎓 [StudyBudy](https://github.com/DamilolaOlarewaju/StudyBudy) — An AI-powered exam coach for MIVA Open University students, built with Kotlin and Jetpack Compose.
-- 🎬 [CINEPULSE](https://github.com/DamilolaOlarewaju/CINEPULSE) — A live-style cinema discovery dashboard with rankings, search, watchlists, and release countdowns.
-- 💼 [Portfolio_me](https://github.com/DamilolaOlarewaju/Portfolio_me) — My personal portfolio website, built with HTML, CSS, and vanilla JavaScript.
-- 🤖 [Aura---AI](https://github.com/DamilolaOlarewaju/Aura---AI) — An AI project currently being developed.
-- 🧠 [truthlens-api](https://github.com/DamilolaOlarewaju/truthlens-api) — A private Python API project exploring information analysis and verification.
+## What I'm building
 
-## What I work with
+| Project | Description | Focus |
+| --- | --- | --- |
+| [StudyBudy](https://github.com/DamilolaOlarewaju/StudyBudy) | AI-powered exam coach for MIVA Open University students | Kotlin · Jetpack Compose · Gemini AI |
+| [CINEPULSE](https://github.com/DamilolaOlarewaju/CINEPULSE) | Interactive cinema discovery dashboard with rankings and watchlists | HTML · CSS · JavaScript |
+| [Portfolio_me](https://github.com/DamilolaOlarewaju/Portfolio_me) | Personal portfolio, project showcase, and academic planner | HTML · CSS · JavaScript |
+| [Aura---AI](https://github.com/DamilolaOlarewaju/Aura---AI) | Early-stage project exploring AI-powered experiences | Artificial Intelligence |
+| [mindclone](https://github.com/DamilolaOlarewaju/mindclone) | Personal AI and digital knowledge-twin project | TypeScript · AI |
 
-- Kotlin and Android development
-- Jetpack Compose and Material 3
-- JavaScript, HTML, and CSS
-- Python and REST APIs
-- AI integrations and RAG concepts
-- Firebase and backend services
-- Git and GitHub
+## Technical interests
+
+- **Mobile:** Kotlin, Android, Jetpack Compose, Material 3
+- **Web:** HTML, CSS, JavaScript, responsive UI
+- **AI:** AI product development, Gemini integrations, RAG concepts
+- **Backend:** Python, REST APIs, Firebase, Supabase
+- **Workflow:** Git, GitHub, documentation, testing, and deployment
 
 ## Currently learning
 
 - Production-ready AI engineering
-- Scalable application architecture
 - Retrieval-augmented generation pipelines
-- Better testing, deployment, and documentation practices
+- Scalable application architecture
+- Better testing, deployment, and technical communication
 
-## Let's connect
+## Connect with me
 
-- 🌐 Portfolio: [portfolio-me-tau-flax.vercel.app](https://portfolio-me-tau-flax.vercel.app)
-- 💼 LinkedIn: [Damilola Olarewaju](https://www.linkedin.com/in/damilola-olanrewaju)
-- 🎓 CodewithDami Academy: [codewithdami.base44.app](https://codewithdami.base44.app/)
-- ✉️ Email: [damiola09054@gmail.com](mailto:damiola09054@gmail.com)
-- GitHub: [@DamilolaOlarewaju](https://github.com/DamilolaOlarewaju)
+- 🌐 [Portfolio](https://portfolio-me-tau-flax.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/damilola-olanrewaju)
+- 🎓 [CodewithDami Academy](https://codewithdami.base44.app/)
+- ✉️ [Email](mailto:damiola09054@gmail.com)
+- 🐙 [GitHub](https://github.com/DamilolaOlarewaju)
 
 ---
 
-> Building, learning, and shipping one project at a time.
+> Building useful things, learning in public, and helping more people create with technology.

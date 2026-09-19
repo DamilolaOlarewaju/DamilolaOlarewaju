@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Damilola Olarewaju 👋
 
-<!--
-**DamilolaOlarewaju/DamilolaOlarewaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer who enjoys building useful, thoughtful, and visually engaging digital products.
 
-Here are some ideas to get you started:
+My projects explore mobile development, AI-powered applications, interactive web experiences, and tools that solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+- 🎓 [StudyBudy](https://github.com/DamilolaOlarewaju/StudyBudy) — An AI-powered academic tutor and exam coach for MIVA Open University students.
+- 🎬 [CINEPULSE](https://github.com/DamilolaOlarewaju/CINEPULSE) — A live cinema discovery dashboard with trending titles, rankings, watchlists, and release countdowns.
+- 🤖 [Aura---AI](https://github.com/DamilolaOlarewaju/Aura---AI) — An AI-focused project exploring intelligent user experiences.
+- 🧠 [truthlens-api](https://github.com/DamilolaOlarewaju/truthlens-api) — An API project focused on information analysis and verification.
+- 💼 [Portfolio_me](https://github.com/DamilolaOlarewaju/Portfolio_me) — My personal portfolio and professional showcase.
+
+## What I work with
+
+- Android development
+- Kotlin
+- Jetpack Compose
+- JavaScript and HTML/CSS
+- REST APIs
+- AI integrations
+- Firebase
+- Git and GitHub
+
+## Currently learning
+
+- Scalable application architecture
+- Better testing and documentation practices
+- AI-assisted product development
+- Modern frontend and mobile user experience design
+
+## Let's connect
+
+- GitHub: [@DamilolaOlarewaju](https://github.com/DamilolaOlarewaju)
+
+---
+
+> Building, learning, and shipping one project at a time.
